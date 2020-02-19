@@ -32,7 +32,7 @@ public class Aula03 {
             System.out.println("Você foi reprovado :(");
         }
         
-        switch(media >=5) {
+        switch(media >= 5) {
             case true: System.out.println("Aprovado!");
             break;
             case false: System.out.println("Reprovado.");
